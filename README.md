@@ -4,7 +4,7 @@
 ------
 
 最新版下载地址：
-- [官网下载](https://github.com/xiaoming198/apks/raw/master/xiaoming-2.0.1_gt.apk "官网下载") 
+- [官网下载](https://github.com/xiaoming198/apks/raw/master/xiaoming-1.3.6_gt.apk "官网下载") 
 - [谷歌市场](http://play.google.com/store/apps/details?id=com.xiaoming.vpn "谷歌市场")  
 
 
